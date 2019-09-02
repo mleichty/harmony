@@ -1,0 +1,22 @@
+{
+    "colorharmony": [
+        { "type": "redDirect", "primaryColor": "red", "hex1": "#F02924", "hex2": "#1CBD27", "hex3": "" },
+        { "type": "redSplit", "primaryColor": "red", "hex1": "#F02924", "hex2": "#9DDF21", "hex3": "#168C91" },
+        { "type": "redAnalogous", "primaryColor": "red", "hex1": "#F02924", "hex2": "#C21D77", "hex3": "#F08224" },
+        { "type": "orangeDirect", "primaryColor": "orange", "hex1": "#F08B24", "hex2": "#1A7A95", "hex3": "" },
+        { "type": "orangeSplit", "primaryColor": "orange", "hex1": "#F08B24", "hex2": "#2941A3", "hex3": "#1AB148" },
+        { "type": "orangeAnalogous", "primaryColor": "orange", "hex1": "#F08B24", "hex2": "#F04024", "hex3": "#F0B324" },
+        { "type": "yellowDirect", "primaryColor": "yellow", "hex1": "#F0CD24", "hex2": "#4629A5", "hex3": "" },
+        { "type": "yellowSplit", "primaryColor": "yellow", "hex1": "#F0CD24", "hex2": "#264BA1", "hex3": "#721FA0" },
+        { "type": "yellowAnalogous", "primaryColor": "yellow", "hex1": "#F0CD24", "hex2": "#F0AC24", "hex3": "#F0F024" },
+        { "type": "greenDirect", "primaryColor": "green", "hex1": "#8ADB20", "hex2": "#CC1E67", "hex3": "" },
+        { "type": "greenSplit", "primaryColor": "green", "hex1": "#8ADB20", "hex2": "#841B9E", "hex3": "#F04724" },
+        { "type": "greenAnalogous", "primaryColor": "green", "hex1": "#8ADB20", "hex2": "#D8EB23", "hex3": "#1AAE51" },
+        { "type": "blueDirect", "primaryColor": "blue", "hex1": "#264BA1", "hex2": "#F0AC24", "hex3": "" },
+        { "type": "blueSplit", "primaryColor": "blue", "hex1": "#264BA1", "hex2": "#F08024", "hex3": "#F0CD24" },
+        { "type": "blueAnalogous", "primaryColor": "blue", "hex1": "#264BA1", "hex2": "#159090", "hex3": "#4629A5" },
+        { "type": "violetDirect", "primaryColor": "violet", "hex1": "#5E23A2", "hex2": "#F0E124", "hex3": "" },
+        { "type": "violetSplit", "primaryColor": "violet", "hex1": "#5E23A2", "hex2": "#F0C024", "hex3": "#BEE622" },
+        { "type": "violetAnalogous", "primaryColor": "violet", "hex1": "#5E23A2", "hex2": "#342DA7", "hex3": "#A61995" }
+    ]
+}
